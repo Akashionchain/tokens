@@ -1,0 +1,9 @@
+{
+  "name": "Akashi Token",
+  "symbol": "AKASHI",
+  "decimals": 18,
+  "address": "0xf2acb725e372603f70d894ae5fbc83b2f8f3d79e",
+  "chainId": 84532,
+  "logoURI": "https://raw.githubusercontent.com/Akashionchain/akashi-token-assets/main/akashi-token-logo.png",
+  "tags": ["erc20", "community"]
+}
